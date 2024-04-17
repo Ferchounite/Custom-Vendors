@@ -50,6 +50,9 @@ Con la ayuda de constructores visuales como elementor, bricks, etc. Puedes crear
 ### Captura de pantalla - Creación del campo Vendedor en el pedido de Woocommerce para identificar el vendedor
 [![Creaci-n-del-campo-en-el-pedido-para-seguimiento.png](https://i.postimg.cc/wMtXS1Mv/Creaci-n-del-campo-en-el-pedido-para-seguimiento.png)](https://postimg.cc/8fSfvPhQ)
 
+### Captura de pantalla - Ejemplo de listing del CPT creado con elementor pro y su Loop Grid widget
+[![Listing-grid-del-CPT-creado-con-elementor-pro.png](https://i.postimg.cc/ZRsByQyg/Listing-grid-del-CPT-creado-con-elementor-pro.png)](https://postimg.cc/PpZrg2yz)
+
 ## Authors
 
 - [@ferchounite](https://github.com/Ferchounite/)
